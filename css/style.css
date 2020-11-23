@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+table td{
+    border: 1px solid orange;
+    text-align: center;
+    padding: 1.3rem;
+}
+.button{
+    border-radius: .5rem;
+    color: white;
+    background-color: orange;
+    padding: 1rem;
+    text-decoration: none; 
+}
+h2{
+    color: red;
+}
+.alerta{
+    background-color: red;
+}
