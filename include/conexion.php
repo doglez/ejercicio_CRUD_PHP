@@ -11,5 +11,5 @@ try {
     $pdo = new PDO($dsn,$username,$passwd);
 } catch (\Exception $e) {
     echo "<h3>No se puede conectar a la DB</h3>";
-    echo "<h3>Mensaje: " . $e->getMessage() . "</3>";
+    echo "<h3>Mensaje: " . $e->getMessage() . "</h3>";
 }
