@@ -3,8 +3,8 @@ try {
     // definicion de variables
     $host = 'localhost';
     $db = 'db_crud';
-    $username = 'root';
-    $passwd = 'Cf3304hy3@';
+    $username = 'labs';
+    $passwd = 'labs123@';
 
     // Conexion a la db
     $dsn = "mysql:host=$host;dbname=$db";
