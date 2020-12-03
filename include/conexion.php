@@ -4,7 +4,11 @@ try {
     $host = 'localhost';
     $db = 'db_crud';
     $username = 'labs';
+<<<<<<< HEAD
     $passwd = 'Labs123@';
+=======
+    $passwd = 'labs123@';
+>>>>>>> 04220aabe9eff6d2d29b1b36ca4199202284325c
 
     // Conexion a la db
     $dsn = "mysql:host=$host;dbname=$db";
